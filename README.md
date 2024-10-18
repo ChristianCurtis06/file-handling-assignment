@@ -1,0 +1,1 @@
+This repository includes the assignment: File Handling in Module 3: Lesson 5 of the Software Engineering Core.
